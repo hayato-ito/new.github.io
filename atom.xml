@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://gclueHayato.github.io/atom.xml" rel="self"/>
-  <link href="http://gclueHayato.github.io/"/>
-  <updated>2013-05-14T15:34:56+09:00</updated>
-  <id>http://gclueHayato.github.io/</id>
+  <link href="http://new.github.io/atom.xml" rel="self"/>
+  <link href="http://new.github.io/"/>
+  <updated>2013-05-14T15:45:26+09:00</updated>
+  <id>http://new.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[hello]]></title>
-    <link href="http://gclueHayato.github.io/blog/2013/05/13/hello/"/>
+    <link href="http://new.github.io/blog/2013/05/13/hello/"/>
     <updated>2013-05-13T20:34:00+09:00</updated>
-    <id>http://gclueHayato.github.io/blog/2013/05/13/hello</id>
+    <id>http://new.github.io/blog/2013/05/13/hello</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
